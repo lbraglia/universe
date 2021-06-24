@@ -1,0 +1,22 @@
+[
+    {
+	"package": "ifctools",
+	"url": "https://github.com/lbraglia/ifctools"
+    },
+    {
+	"package": "RStata",
+	"url": "https://github.com/lbraglia/RStata"
+    },
+    {
+	"package": "telegram",
+	"url": "https://github.com/lbraglia/telegram"
+    },
+    {
+	"package": "aplore3",
+	"url": "https://github.com/lbraglia/aplore3"
+    },
+    {
+	"package": "aprean3",
+	"url": "https://github.com/lbraglia/aprean3"
+    }
+]

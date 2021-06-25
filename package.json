@@ -18,5 +18,49 @@
     {
 	"package": "aprean3",
 	"url": "https://github.com/lbraglia/aprean3"
+    },
+    {
+	"package": "lbdnd",
+	"url": "https://github.com/lbraglia/lbdnd"
+    },
+    {
+	"package": "lbmisc",
+	"url": "https://github.com/lbraglia/lbmisc"
+    },
+    {
+	"package": "lbstat",
+	"url": "https://github.com/lbraglia/lbstat"
+    },
+    {
+	"package": "lbsurv",
+	"url": "https://github.com/lbraglia/lbsurv"
+    },
+    {
+	"package": "lbdnd",
+	"url": "https://github.com/lbraglia/lbdnd"
+    },
+    {
+	"package": "lbagree",
+	"url": "https://github.com/lbraglia/lbagree"
+    },
+    {
+	"package": "lbrct",
+	"url": "https://github.com/lbraglia/lbrct"
+    },
+    {
+	"package": "lbquest",
+	"url": "https://github.com/lbraglia/lbquest"
+    },
+    {
+	"package": "lbdiag",
+	"url": "https://github.com/lbraglia/lbdiag"
+    },
+    {
+	"package": "lbscorer",
+	"url": "https://github.com/lbraglia/lbscorer"
+    },
+    {
+	"package": "lbls",
+	"url": "https://github.com/lbraglia/lbls"
     }
 ]

@@ -1,66 +1,82 @@
 [
     {
 	"package": "ifctools",
-	"url": "https://github.com/lbraglia/ifctools"
+	"url": "https://github.com/lbraglia/ifctools",
+	"available": true
     },
     {
 	"package": "RStata",
-	"url": "https://github.com/lbraglia/RStata"
+	"url": "https://github.com/lbraglia/RStata",
+	"available": true
     },
     {
 	"package": "telegram",
-	"url": "https://github.com/lbraglia/telegram"
+	"url": "https://github.com/lbraglia/telegram",
+	"available": true
     },
     {
 	"package": "aplore3",
-	"url": "https://github.com/lbraglia/aplore3"
+	"url": "https://github.com/lbraglia/aplore3",
+	"available": true
     },
     {
 	"package": "aprean3",
-	"url": "https://github.com/lbraglia/aprean3"
+	"url": "https://github.com/lbraglia/aprean3",
+	"available": true
     },
     {
 	"package": "lbdnd",
-	"url": "https://github.com/lbraglia/lbdnd"
+	"url": "https://github.com/lbraglia/lbdnd",
+	"available": true
     },
     {
 	"package": "lbmisc",
-	"url": "https://github.com/lbraglia/lbmisc"
+	"url": "https://github.com/lbraglia/lbmisc",
+	"available": true
     },
     {
 	"package": "lbstat",
-	"url": "https://github.com/lbraglia/lbstat"
+	"url": "https://github.com/lbraglia/lbstat",
+	"available": true
     },
     {
 	"package": "lbsurv",
-	"url": "https://github.com/lbraglia/lbsurv"
+	"url": "https://github.com/lbraglia/lbsurv",
+	"available": true
     },
     {
 	"package": "lbdnd",
-	"url": "https://github.com/lbraglia/lbdnd"
+	"url": "https://github.com/lbraglia/lbdnd",
+	"available": true
     },
     {
 	"package": "lbagree",
-	"url": "https://github.com/lbraglia/lbagree"
+	"url": "https://github.com/lbraglia/lbagree",
+	"available": true
     },
     {
 	"package": "lbrct",
-	"url": "https://github.com/lbraglia/lbrct"
+	"url": "https://github.com/lbraglia/lbrct",
+	"available": true
     },
     {
 	"package": "lbquest",
-	"url": "https://github.com/lbraglia/lbquest"
+	"url": "https://github.com/lbraglia/lbquest",
+	"available": true
     },
     {
 	"package": "lbdiag",
-	"url": "https://github.com/lbraglia/lbdiag"
+	"url": "https://github.com/lbraglia/lbdiag",
+	"available": true
     },
     {
 	"package": "lbscorer",
-	"url": "https://github.com/lbraglia/lbscorer"
+	"url": "https://github.com/lbraglia/lbscorer",
+	"available": true
     },
     {
 	"package": "lbls",
-	"url": "https://github.com/lbraglia/lbls"
+	"url": "https://github.com/lbraglia/lbls",
+	"available": true
     }
 ]
